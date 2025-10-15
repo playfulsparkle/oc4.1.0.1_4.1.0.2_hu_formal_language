@@ -19,7 +19,6 @@ $_['entry_email']             = 'E-mail';
 $_['entry_telephone']         = 'Telefonszám';
 $_['entry_newsletter']        = 'Feliratkozás';
 $_['entry_password']          = 'Jelszó';
-$_['entry_confirm']           = 'Jelszó megerősítése';
 
 // Error
 $_['error_token']              = 'Figyelmeztetés: A regisztrációs token érvénytelen!';
@@ -31,7 +30,7 @@ $_['error_email']              = 'Az e-mail cím nem tűnik érvényesnek!';
 $_['error_telephone']          = 'A telefonszám legalább 3, és legfeljebb 32 karakterből álljon!';
 $_['error_custom_field']       = '%s kötelező!';
 $_['error_regex']              = '%s nem érvényes!';
-$_['error_password']           = 'A jelszó legalább 4, és legfeljebb 20 karakterből álljon!';
+$_['error_password']           = 'A jelszónak tartalmaznia kell %s, és %d és 20 karakter közötti hosszúságúnak kell lennie!';
 $_['error_password_uppercase'] = 'nagybetű';
 $_['error_password_lowercase'] = 'kisbetű';
 $_['error_password_number']    = 'szám';

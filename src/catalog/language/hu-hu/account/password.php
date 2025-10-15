@@ -13,7 +13,7 @@ $_['entry_confirm']            = 'Jelszó megerősítése';
 
 // Error
 $_['error_token']              = 'Figyelmeztetés: A jelszó token érvénytelen!';
-$_['error_password']           = 'A jelszó legalább 4, és legfeljebb 40 karakterből álljon!';
+$_['error_password']           = 'A jelszónak tartalmaznia kell %s, és %d és 20 karakter közötti hosszúságúnak kell lennie!';
 $_['error_password_uppercase'] = 'nagybetű';
 $_['error_password_lowercase'] = 'kisbetű';
 $_['error_password_number']    = 'szám';

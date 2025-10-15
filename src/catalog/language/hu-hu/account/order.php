@@ -44,4 +44,4 @@ $_['column_comment']             = 'Megjegyzés';
 $_['column_action']              = 'Művelet';
 
 // Error
-$_['error_reorder']              = '%s jelenleg nem rendelhető újra.';
+$_['error_reorder']              = 'Az újbóli megvásárlásra kiválasztott termékkel probléma merült fel. Kérjük, ellenőrizze az alábbi hibaüzeneteket.';

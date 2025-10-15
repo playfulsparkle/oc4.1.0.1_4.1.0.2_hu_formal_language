@@ -31,7 +31,7 @@ $_['column_total']               = 'Összesen';
 
 // Error
 $_['error_stock']                = 'A ***-al megjelölt termékek nem állnak rendelkezésre a kívánt mennyiségben vagy nincsenek készleten!';
-$_['error_minimum']              = 'A(z) %s minimális rendelési összege %s!';
+$_['error_minimum']              = 'A minimális rendelési összeg %s!';
 $_['error_required']             = '%s kötelező!';
 $_['error_regex']                = '%s nem érvényes bevitel!';
 $_['error_product']              = 'Figyelmeztetés: A termék nem található!';

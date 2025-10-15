@@ -5,7 +5,7 @@ $_['heading_title']        = 'E-mailek';
 // Text
 $_['text_mail']            = 'E-mailek küldése az ügyfeleknek';
 $_['text_success']         = 'Az üzenet sikeresen elküldésre került!';
-$_['text_sent']            = 'Az üzenet sikeresen elküldésre került %s - %s címzetteknek!';
+$_['text_sent']            = 'Az üzenetét sikeresen elküldtük %s részére %s a(z) %s címzett közül!';
 $_['text_default']         = 'Alapértelmezett';
 $_['text_newsletter']      = 'Minden hírlevél feliratkozó';
 $_['text_customer_all']    = 'Minden vásárló';

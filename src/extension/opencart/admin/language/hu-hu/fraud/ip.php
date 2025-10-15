@@ -4,6 +4,7 @@ $_['heading_title']      = 'Visszaélés védelem-IP';
 
 // Text
 $_['text_extension']     = 'Bővítmények';
+$_['text_fraud']         = 'Visszaélés védelem';
 $_['text_success']       = 'Siker: A visszaélés védelem-IP sikeresen módosítva lett!';
 $_['text_edit']          = 'Visszaélés védelem-IP szerkesztése';
 $_['text_ip_add']        = 'IP-cím hozzáadása';
