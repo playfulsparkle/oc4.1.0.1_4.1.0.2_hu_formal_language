@@ -1,5 +1,5 @@
 {
-  "name": "oc4_1_0_1x4_1_0_2_hu_formal_language",
+  "name": "oc4.1.0.1_4.1.0.2_hu_formal_language",
   "version": "1.0.0",
   "description": "Hungarian (formal) language for OpenCart 4.1.0.1-4.1.0.2",
   "main": "index.js",
@@ -23,6 +23,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/playfulsparkle/oc4_1_0_1x4_1_0_2_hu_formal_language.git"
+    "url": "git+https://github.com/playfulsparkle/oc4.1.0.1_4.1.0.2_hu_formal_language.git"
   }
 }
